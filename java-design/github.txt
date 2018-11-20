@@ -1,0 +1,18 @@
+cd F:\shengzheng\training\java-design\java-design
+
+F:
+
+git init 
+
+git add .
+
+git commit -m "Java Design Training"
+
+
+
+
+git remote add origin https://github.com/alanjiang/java-design.git
+git push -u origin master
+
+
+
